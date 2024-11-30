@@ -1,0 +1,10 @@
+#CAMBIA EL NOMBRE DE ESTE ARCHIVO A .env
+# Variables de entorno del Proyecto.
+HOST=localhost
+PORT=3050
+API_URL=/api/v1
+# Conexion por IP fisica o publica
+CONNECTION_STRING=mongodb+srv://ermorenodu:mode8663@ecommerce.ccfqv.mongodb.net/db_ecommerce?retryWrites=true&w=majority
+DB_USER=ermorenodu
+DB_PASSWORD=mode8663
+DATABASE=db_ecommerce
